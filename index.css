@@ -1,0 +1,26 @@
+body {
+  background-image: url(pena.jpg
+);
+} 
+
+h1 {
+  color: #93e;
+  text-align: center;
+}
+h2 {
+  background-color: #edff12;
+  color:black ;
+  text-align: center;
+}
+p {
+  font-family: times new roman;
+  font-size: 15px;
+  color:#8eff96;
+}
+ul {
+  font-family: times new roman;
+  font-size: 15px;
+  color:#8eff96
+;
+}
+h3 {text-align: center;}
